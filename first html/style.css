@@ -1,0 +1,105 @@
+#image{
+    
+   background-color: rgb(124, 146, 196);
+   background-size: 1300px 500px ;
+    margin: 45 30 ;
+    width: 1300;
+    height: 500;
+    border: dotted;
+   
+}
+
+#place{
+    padding: 200px 50px;
+    text-align: center ;
+    border: black;
+    text-shadow: 5px 5px 5px whitesmoke;
+
+}
+ul{
+    background-color: green;
+    color: whitesmoke;
+    list-style-type: none;
+    overflow: auto;
+}
+li{
+    padding: 10px 15px;
+    float: left;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color:blacke;
+
+
+}
+a:visited{
+    color:whitesmoke;
+
+}
+a:hover{
+    color:rebeccapurple;
+
+}
+a:active{
+    color:maroon;
+
+}
+
+#new{ padding: 20px 100px;
+    height: 950;
+    width: auto;
+    border: 1px solid gray;
+    background-image:linear-gradient(rgb(85, 202, 85),rgb(28, 28, 221)) ;
+    
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+#heading{
+    font-size: 75px;
+}
+#size{
+    font-size: 35px;
+    font-variant: small-caps;
+}
+#quote{ padding: 10;
+    font-size: 50px;
+    color:midnightblue;
+    text-shadow: 5px 5px 5px whitesmoke;
+    font-style: oblique;
+}
+#bg{
+    width: auto;
+    height: 750;
+background-image: linear-gradient(rgb(169, 199, 206),rgb(103, 179, 202),rgb(53, 117, 155));
+}
+#bgimage{
+    background-image: linear-gradient(to right,purple,black) ;
+    
+   
+ 
+
+}
+#font{ border: floralwhite;
+     font-size: 20px;
+
+}
+#body{
+    background-image: linear-gradient(to right,rgb(228, 216, 50),rgb(231, 241, 194)) ;
+    
+}
+#align{
+    float: left;
+}
+#shadow{
+   font-size: 22px;
+   
+}
+#myDIV {
+    height: 950;
+    width: auto;
+    color: maroon;
+    background-image:linear-gradient( rgb(174, 236, 115), rgb(96, 96, 212)) ;
+    
+    }
